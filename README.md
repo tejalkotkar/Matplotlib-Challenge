@@ -1,4 +1,5 @@
-# Matplotlib-Challenge
+# Pharmaceutical-Analysis-Plots
+
 
 ## Background
 
